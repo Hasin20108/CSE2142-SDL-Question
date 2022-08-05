@@ -14,7 +14,6 @@ public class StudentList {
     }
 
     public static void main(String[] args) throws Exception{
-
         // Check arguments
         if (args[0].equals(Constant.ShowAll)) {
             //this will print the list of all students
